@@ -44,6 +44,8 @@ class MissedObject{
 		this.type = type;
 		this.check = check;
 	}
+	
+	//Sample comment
 
 }
 
